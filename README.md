@@ -2,8 +2,8 @@
 React-front-end-coding-challage
 
 
-Run to install dependencies
-#npm i 
+# Run to install dependencies
+npm i 
 
-Enter to start server
-#npm start
+# Enter to start server
+npm start
